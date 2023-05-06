@@ -5,12 +5,12 @@ whose names are in a txt file called "exclude.txt"
 
 # Sample "exclude.txt"
 
-env
-.gitignore
-ex1.py
-ex2.txt
-ex3
-ex5.txt
+env\
+.gitignore\
+ex1.py\
+ex2.txt\
+ex3\
+ex5.txt\
 .zip
 
 # Current features:
